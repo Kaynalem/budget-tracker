@@ -2,7 +2,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Description
-A Progressive Web Applications (PWA) budget tracker that allows a user to add expenses and deposits to their budget with or without an internet connection. If the user enters transactions offline, the total will be updated when they're brought back online.
+A mobile-first Progressive Web Applications (PWA) budget tracker that allows a user to add expenses and deposits to their budget with or without an internet connection. If the user enters transactions offline, the total will be updated when they're brought back online.
  
 ![mockup](https://raw.githubusercontent.com/Kaynalem/budget-tracker/master/utils/mockup.PNG)
 ## Table of Contents
