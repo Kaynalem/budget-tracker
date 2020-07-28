@@ -2,8 +2,8 @@
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Description
-A mobile-first Progressive Web Applications (PWA) budget tracker that allows a user to add expenses and deposits to their budget with or without an internet connection. If the user enters transactions offline, the total will be updated when they're brought back online.
-[Deployed Application](https://my-budget-tracker-pwa.herokuapp.com/)  
+A mobile-first Progressive Web Applications (PWA) budget tracker that allows a user to add expenses and deposits to their budget with or without an internet connection. If the user enters transactions offline, the total will be updated when they're brought back online.  
+
 ![mockup](https://raw.githubusercontent.com/Kaynalem/budget-tracker/master/public/utils/mockup.PNG)
 ## Table of Contents
 * [User Story](#user-story)
@@ -36,7 +36,7 @@ To install necessary dependencies, run the following command in your terminal:
 npm install 
 ```
 ## Usage
-Run `npm start` in your terminal to get started!
+Run `npm start` in your terminal and visit http://localhost:3001/ or [click here](https://my-budget-tracker-pwa.herokuapp.com/) to use the deployed application!
 ## License
 This project is licensed under the MIT license.
 ## Contributing
